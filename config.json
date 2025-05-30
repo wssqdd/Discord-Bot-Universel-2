@@ -1,0 +1,12 @@
+{
+    "prefix": ".",
+    "color_embed": 16777215,
+    "status": "online",
+    "activity": " ",
+    "activity_type": "streaming",
+    "antispam": 3,
+    "antilien": true,
+    "antibot": true,
+    "antiinvitation": false,
+    "antimajuscule": 3
+}
