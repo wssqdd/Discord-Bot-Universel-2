@@ -1,0 +1,10 @@
+discord.py>=2.3.2
+asyncio
+random
+datetime
+json
+os
+io
+collections
+time
+re
