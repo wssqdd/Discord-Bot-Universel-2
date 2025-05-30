@@ -1,0 +1,10 @@
+{
+    "fiches": [
+        {
+            "nom": "StarWars",
+            "description": "Star Wars (La Guerre des étoiles en français) est une franchise de science-fiction créée par George Lucas. Elle comprend des films, des séries télévisées, des jeux vidéo, des romans et des bandes dessinées, tous se déroulant dans un univers fictif vaste et riche",
+            "image": "https://media.discordapp.net/attachments/1375745580449398834/1376567888961339502/Star_Wars_Logo.svg.png?ex=6835cc40&is=68347ac0&hm=f8f6e1b59dac9cb347fdff33511c1ce13a613bc54e5172f8b96fef88fc67da18&=&format=webp&quality=lossless",
+            "lien": "https://exemple.com"
+        }
+    ]
+}
